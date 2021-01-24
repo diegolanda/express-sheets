@@ -1,0 +1,10 @@
+PUT  http://localhost:3030/api/users/6 HTTP/1.1
+content-type: application/json
+
+{
+  "ID": "6",
+  "Email": "test.userupt@gmail.com",
+  "Name": "Test Upt",
+  "LastName": "User Upt",
+  "Telephone": "Upt_+1 203 123456"
+}

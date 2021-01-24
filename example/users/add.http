@@ -1,0 +1,10 @@
+POST http://localhost:3030/api/users/ HTTP/1.1
+content-type: application/json
+
+{
+  "ID": "7",
+  "Email": "test.user@gmail.com",
+  "Name": "Test",
+  "LastName": "User",
+  "Telephone": "+1 203 123456"
+}
