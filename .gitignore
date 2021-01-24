@@ -1,0 +1,10 @@
+# Config Files
+config/token.json
+config/credentials.json
+
+# Directories
+node_modules/
+.vscode/
+
+# Misc.
+.DS_STORE
