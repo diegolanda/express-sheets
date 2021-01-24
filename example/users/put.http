@@ -5,6 +5,5 @@ content-type: application/json
   "ID": "6",
   "Email": "test.userupt@gmail.com",
   "Name": "Test Upt",
-  "LastName": "User Upt",
-  "Telephone": "Upt_+1 203 123456"
+  "LastName": "User Upt"
 }
